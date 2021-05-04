@@ -1,0 +1,9 @@
+#EXTM3U
+
+
+
+#EXTINF:-1, TELETICA
+https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO56tQuLWe_2orYO8-Wpcwp_M)/dm/3/x29e3wg/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1, CARACOLTV
+https://vkvsd51.mycdn.me:443/hls/1250268940840.m3u8/sig/4AzUCGBJ-qo/expires/1620208364136/srcIp/190.171.113.196/clientType/13/srcAg/CHROME_ANDROID/mid/2804806200104/1250268940840_high/index.m3u8
